@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Madses/newworld-bot/issues"
   },
-  "homepage": "https://github.com/Madses/newworld-bot#readme"
+  "homepage": "https://github.com/Madses/newworld-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "node": "16.6.1"
+  }
 }
